@@ -303,7 +303,7 @@ const handleSubmit = async () => {
     console.log('Submitting form to Formspree:', form.value)
     
     // Submit to Formspree
-    const response = await $fetch('https://formspree.io/f/xdaakkok', {
+    const response = await $fetch('https://formspree.io/f/xwvngqbj', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
