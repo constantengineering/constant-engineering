@@ -44,7 +44,7 @@
           >
             <div class="bg-slate-50 rounded-2xl p-6 sm:p-8 lg:p-10 border border-slate-200/50">
               <h2 class="text-2xl sm:text-3xl lg:text-4xl font-bold text-slate-900 mb-2 tracking-tight">
-                Send us a message
+                Send us a message here
               </h2>
               <p class="text-slate-600 mb-8 text-base sm:text-lg">
                 Fill out the form below and we'll get back to you as soon as possible.
